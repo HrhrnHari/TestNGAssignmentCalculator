@@ -138,3 +138,246 @@
 2020-06-23 13:26:22.394 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
 2020-06-23 13:26:26.245 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
 2020-06-23 13:26:34.009 [TestNG-test=TestNG Test0-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:11:50.772 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 12:11:50.776 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 12:11:50.776 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 12:11:53.030 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_12_11_53_PM
+2020-06-30 12:12:00.188 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:01.238 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:05.714 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:06.669 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:11.060 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:12.238 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:16.617 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:17.626 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:22.053 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:23.051 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:27.971 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:28.950 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:33.303 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:34.316 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:38.680 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:39.701 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:44.013 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:45.147 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:49.585 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:50.627 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:12:54.845 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:12:55.938 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:00.197 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:01.299 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:05.390 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:06.501 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:10.660 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:11.911 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:16.509 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:17.824 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:22.484 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:23.527 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:27.767 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:28.906 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:33.461 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:34.768 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:39.041 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:40.159 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:44.664 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:45.750 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:50.106 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:51.122 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:13:55.495 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:13:56.536 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:14:00.768 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:14:01.800 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:14:06.117 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:14:07.173 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:14:11.511 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:14:12.574 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:14:16.879 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:14:17.873 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:14:22.099 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:14:23.167 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:21:24.878 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_12_21_24_PM
+2020-06-30 12:21:25.510 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 12:21:25.511 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 12:21:25.511 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 12:21:31.864 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:21:32.869 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:21:37.868 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:21:38.890 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:21:43.330 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:21:44.295 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:26:54.250 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_12_26_54_PM
+2020-06-30 12:26:54.280 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 12:26:54.280 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 12:26:54.280 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 12:31:35.184 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_12_31_35_PM
+2020-06-30 12:31:35.822 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 12:31:35.822 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 12:31:42.097 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:31:43.277 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:31:47.651 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:31:48.662 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:31:52.898 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:31:53.953 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:31:58.329 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:31:59.349 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:04.086 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:05.112 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:09.520 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:10.707 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:15.013 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:16.044 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:20.500 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:21.503 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:25.710 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:26.693 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:30.870 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:32.042 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:36.467 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:37.463 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:41.868 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:42.951 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:47.246 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:48.288 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:52.568 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:53.599 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:32:58.080 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:32:59.229 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:03.685 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:04.781 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:09.124 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:10.140 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:14.649 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:15.701 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:19.892 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:20.883 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:25.150 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:26.180 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:30.961 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:31.955 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:36.300 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:37.466 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:41.749 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:42.766 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:47.034 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:48.192 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:52.535 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:53.628 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:33:58.352 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:33:59.291 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:03.699 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:04.806 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:09.786 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:10.825 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:15.770 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:16.789 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:21.129 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:22.259 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:26.600 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:27.654 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:31.987 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:33.162 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:37.430 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:38.475 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:42.775 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:43.819 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:48.118 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:49.182 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:53.678 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:34:54.702 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:34:59.425 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:35:00.585 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:35:05.313 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:35:06.357 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 12:35:10.620 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 12:35:11.698 [TestNG-test=Calculator Parallel Classes Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 16:51:09.128 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_04_51_09_PM
+2020-06-30 16:51:09.162 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 16:51:09.163 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 16:51:09.163 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:31:50.480 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_31_50_PM
+2020-06-30 17:31:51.165 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:31:51.165 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:31:51.165 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:31:58.106 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:31:59.220 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:04.039 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:05.123 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:09.691 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:10.806 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:15.293 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:16.507 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:21.228 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:22.415 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:27.645 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:29.279 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:34.603 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:35.712 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:41.298 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:42.536 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:47.510 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:48.713 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:32:53.590 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:32:54.722 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:00.030 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:01.278 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:06.360 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:07.534 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:12.695 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:13.859 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:18.991 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:20.276 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:24.756 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:25.919 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:30.494 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:31.531 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:36.869 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:37.900 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:42.753 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:43.802 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:48.927 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:50.097 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:33:55.234 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:33:56.511 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:34:01.402 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:34:02.643 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:34:07.363 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:34:08.464 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:34:13.284 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:34:14.388 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:34:19.011 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:34:20.240 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:34:24.707 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:34:25.889 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:34:30.376 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:34:31.665 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:34:36.015 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:34:37.418 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:36:54.645 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-30_Jun_2020_05_36_54_PM
+2020-06-30 17:36:55.416 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-30 17:36:55.417 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-30 17:36:55.418 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-30 17:37:01.800 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:02.908 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:07.335 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:08.356 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:12.946 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:14.155 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:19.160 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:20.204 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:24.575 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:25.853 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:30.231 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:31.227 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:35.542 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:36.845 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:41.131 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:42.184 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:46.609 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:47.621 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:52.129 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:53.180 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:37:57.712 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:37:58.868 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-30 17:38:03.500 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-30 17:38:04.568 [TestNG-test=Calculation Grouping and Parameter Scenarios-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed

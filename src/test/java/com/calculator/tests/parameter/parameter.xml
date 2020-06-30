@@ -8,12 +8,6 @@
 		<parameter name="multiplication" value="1,2,2"></parameter>
 		<parameter name="intDivision" value="2,2,1"></parameter>
 	
-	<groups>
-			<run>
-				<include name = "basic_calculation"/>
-				<exclude name= "intermittent_calculation"></exclude>
-			</run>
-		</groups>
 		<classes>
 			<class name="com.calculator.tests.parameter.calculatorUsingParameter"></class>
 		</classes>

@@ -4,8 +4,7 @@
 	<test name="Calculation Grouping and Parameter Scenarios">
 		<groups>
 			<run>
-				<include name = "basic_calculation1"/>
-				<exclude name= "intermittent_calculation"></exclude>
+				<include name = "sanity"/>
 			</run>
 		</groups>
 	

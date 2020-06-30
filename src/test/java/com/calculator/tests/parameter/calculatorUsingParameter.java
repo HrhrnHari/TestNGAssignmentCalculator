@@ -1,11 +1,11 @@
 package com.calculator.tests.parameter;
 
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import com.calculator.tests.Calculator;
-import com.maveric.core.utils.reporter.Report;
 
 public class calculatorUsingParameter {
 
@@ -18,7 +18,7 @@ public class calculatorUsingParameter {
 		Calculator obj = new Calculator();
 		int result = obj.add(Integer.parseInt(stringArray[0]), Integer.parseInt(stringArray[1]));
 		Assert.assertEquals(result, Integer.parseInt(stringArray[2]));
-		Report.log("Actual - "+ result + " Expected - "+Integer.parseInt(stringArray[2]));
+		Reporter.log("Actual - "+ result + " Expected - "+Integer.parseInt(stringArray[2]), true);
 	}
 	
 	@Test (groups= "basic_calculation")
@@ -29,7 +29,7 @@ public class calculatorUsingParameter {
 		Calculator obj = new Calculator();
 		int result = obj.sub(Integer.parseInt(stringArray[0]), Integer.parseInt(stringArray[1]));
 		Assert.assertEquals(result, Integer.parseInt(stringArray[2]));
-		Report.log("Actual - "+ result + " Expected - "+Integer.parseInt(stringArray[2]));
+		Reporter.log("Actual - "+ result + " Expected - "+Integer.parseInt(stringArray[2]), true);
 	}
 	
 	@Test (groups= "basic_calculation")
@@ -40,7 +40,7 @@ public class calculatorUsingParameter {
 		Calculator obj = new Calculator();
 		int result = obj.mul(Integer.parseInt(stringArray[0]), Integer.parseInt(stringArray[1]));
 		Assert.assertEquals(result, Integer.parseInt(stringArray[2]));
-		Report.log("Actual - "+ result + " Expected - "+Integer.parseInt(stringArray[2]));
+		Reporter.log("Actual - "+ result + " Expected - "+Integer.parseInt(stringArray[2]), true);
 	
 	}
 	
@@ -52,7 +52,7 @@ public class calculatorUsingParameter {
 		Calculator obj = new Calculator();
 		int result = obj.divInt(Integer.parseInt(stringArray[0]), Integer.parseInt(stringArray[1]));
 		Assert.assertEquals(result, Integer.parseInt(stringArray[2]));
-		Report.log("Actual - "+ result + " Expected - "+Integer.parseInt(stringArray[2]));
+		Reporter.log("Actual - "+ result + " Expected - "+Integer.parseInt(stringArray[2]), true);
 	
 	}
 
